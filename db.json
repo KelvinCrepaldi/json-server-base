@@ -9,32 +9,100 @@
     },
     {
       "email": "pinguim@hotmail.com",
-      "password": "$2a$10$9njyTJfuQvw/Mys4QmMYdOb4GCLdFKHlnvlHY8826b.oMYkqnFVFa",
+      "password": "$2a$10$SqmraCQ8iC5Nu7/jJJHBke7WTt6H6cnFT0KqdOeV3GV1TQq6n8GY.",
       "name": "pinguim",
-      "age": 24,
       "id": 2
+    },
+    {
+      "email": "teste@msn.com",
+      "password": "$2a$10$KbHSFrcVhwUEZcwE72mMtObZeaO7fX878ctvZSpyJlEpvutE6Z/hK",
+      "name": "usuario",
+      "id": 3
     }
   ],
   "list": [
     {
       "id": 1,
-      "name": "item da lista",
-      "userId": 1
+      "name": "blusa",
+      "price": "39,99"
+    },
+    {
+      "id": 2,
+      "name": "calça",
+      "price": "49,99"
     },
     {
       "id": 3,
-      "name": "terceiro item da lista",
-      "userId": 1
+      "name": "luva",
+      "price": "9,99"
     },
     {
-      "id": 4,
-      "name": "quarto item da lista",
-      "userId": 2
+      "name": "item",
+      "price": "1,00",
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "short",
+      "price": "39,99",
+      "userId": 1,
+      "id": 1
     },
     {
-      "id": 5,
-      "name": "quinto item da lista",
-      "userId": 2
+      "name": "short",
+      "price": "39,99",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "luva",
+      "price": "9,99",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "short",
+      "price": "39,99",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "meia",
+      "price": "9,99",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "price": "9,99",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "short",
+      "price": "39,99",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "name": "luva",
+      "price": "39,99",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "meia",
+      "price": "5,00",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "meia",
+      "price": "5,00",
+      "userId": 2,
+      "id": 9
     }
   ]
 }
