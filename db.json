@@ -6,6 +6,35 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "pinguim@hotmail.com",
+      "password": "$2a$10$9njyTJfuQvw/Mys4QmMYdOb4GCLdFKHlnvlHY8826b.oMYkqnFVFa",
+      "name": "pinguim",
+      "age": 24,
+      "id": 2
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "item da lista",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "terceiro item da lista",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "name": "quarto item da lista",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "name": "quinto item da lista",
+      "userId": 2
     }
   ]
 }
