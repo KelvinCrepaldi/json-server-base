@@ -11,17 +11,16 @@ Alem dessas foram criados mais dois, sendo list e cart.
 
 ### Cadastro
 
-POST /register
-POST /signup
-POST /users
+POST /register <br/>
+POST /signup <br/>
+POST /users <br/>
 
 Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password. Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
 
 ### Login
 
-Login
-POST /login
-POST /signin
+POST /login <br/>
+POST /signin <br/>
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 
