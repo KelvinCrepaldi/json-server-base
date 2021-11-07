@@ -77,5 +77,18 @@
       "id": 8
     }
   ],
-  "cart": [{}]
+  "cart": [
+    {
+      "userId": 1,
+      "userCart": [
+        {
+          "name": "Hamburguer",
+          "description": "Sanduíches",
+          "price": "14.00",
+          "image": "https://s3-alpha-sig.figma.com/img/bb0c/a182/55225f534ef7e57de0892c7de864a767?Expires=1636934400&Signature=LjzeNAK2IND8oVeu2rKh79K9fpU4tHNunQ9-g~Jdza5Or3WBeHOTHE8kkm46TzEh4uqv4HYqYoaxlKa26AgBlrPCeV6XZa5UC~oUIHiC6wv1gI6V10J4dp6O-sx0uFemDDTcbquyUKBq~TvuNsGWlNsis-~oREwLiHHnVxNcwLkxvK4ETyg~dMHJzexVOQZp65tctarQM6bdRthEk8kZpWx9VcfWa00KctwAWHnaqIrJX040FWeumZCz-N2D0ZHnumYOKaZKS1KPW1XardJ2wojAKMaC0WYQDGH6Hvj09pte1DMVmh8WC~XED68LEooFpnrBGOplSVOq56zEYsUh3g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "id": 1
+        }
+      ]
+    }
+  ]
 }
